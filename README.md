@@ -24,6 +24,8 @@ Persona definition \| User stories \| Wire-framing \| User testing \| Analytics 
 
 Technical coaching \| RPA \| Web \| Mobile \| ML & AI \| DevOps \| Cloud Computing \| IOT
 
+> “The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.” - Bill Gates, Co-founder of Microsoft.
+
 ## 🔌 Enterprise Integration
 
 We agree that it is not possible to update all legacy applications, but they still hold vital information for your company.
@@ -39,6 +41,8 @@ Data transformation \| Information consolidation \| Data cleansing
 Supporting, maintaining, investigating and improving the solution over time.
 
 Penetration testing \| Information management \| DevSecOps \| Support & maintenance 
+
+> "Customer service is the new marketing." - [Derek Sivers, Founder CD Baby](http://sivers.org/)
 
 `ThinkCore Pty Ltd | ABN 77640387364 | Sydney, AU`
 
