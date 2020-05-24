@@ -1,4 +1,4 @@
 # Table of contents
 
-* [What we do !](README.md)
+* [What we do @ ThinkCore](README.md)
 

@@ -2,7 +2,7 @@
 description: Web | Mobile | ML & AI | DevOps | Cloud Computing | IOT
 ---
 
-# What we do !
+# What we do @ ThinkCore
 
 `Create simple digital solutions to make business better`
 
