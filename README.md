@@ -6,19 +6,19 @@ description: Create simple digital solutions to make business better
 
 ## 🕹 Strategic Consulting
 
-We 're building data-driven approaches to help companies become market leaders. We know that every company is different and we're never going to promote a one-size-fits-all, cookie-cutter solution for this. 
+We 're building data-driven approaches to help companies become market leaders. We know that every company is different and we're never going to promote a one-size-fits-all, cookie-cutter solution for this. Our digital expert team will cut through the noise so that you can stop overloading options and keep one step ahead of the competition.
 
-We provide a highly personalised and tailored service to help you determine where you are going and how exactly you are going to get there. Our digital expert team will cut through the noise so that you can stop overloading options and keep one step ahead of the competition.
+Creating an effective digital strategy includes integrating the study of the client, the competitor, and the market to find the most lucrative business opportunities. ‌ To develop a complete data-informed digital strategy, we compile data from industry-leading platforms and your business results.
 
-Creating an effective digital strategy includes integrating the study of the client, the competitor, and the market to find the most lucrative business opportunities. ‌ To develop a complete data-informed digital strategy, we compile data from industry-leading platforms and your business results. The result? Strategic recommendations on where to invest and how to achieve your desired growth. Core digital marketing platforms, including search, web, programmatic, CRM, and more, break down those recommendations.
-
-Product review \| Proof of concept \| R&D \| Analytics \| Roadmap \| Strategy
+Product review \| Proof of concept \| R&D \| Analytics \| Roadmap \| Strategy \| CRM \| CMS \| ERP
 
 > “It’s much easier to double your business by doubling your conversion rate than by doubling your traffic.” – Jeff Eisenberg
 
 ## 😎 Experience Design
 
 Persona definition \| User stories \| Wire-framing \| User testing \| Analytics \| Heuristic Review \| Inclusive Design \| Evidence Based Design
+
+> “If you think good design is expensive, you should look at the cost of bad design.” - Dr. Ralf Speth, Chief Executive Officer, Jaguar Land Rover
 
 ## 👩💻 Technology Development
 
