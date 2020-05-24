@@ -1,2 +1,2 @@
-# tc-pub-web
-ThinkCore public webiste
+# Initial page
+
