@@ -1,10 +1,10 @@
 ---
-description: Create simple digital solutions to make business better
+description: Web | Mobile | ML & AI | DevOps | Cloud Computing | IOT
 ---
 
 # What we do !
 
-Web \| Mobile \| ML & AI \| DevOps \| Cloud Computing \| IOT
+`Create simple digital solutions to make business better`
 
 ## 🕹 Strategic Consulting
 
