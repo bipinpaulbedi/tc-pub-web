@@ -16,11 +16,19 @@ Product review \| Proof of concept \| R&D \| Analytics \| Roadmap \| Strategy \|
 
 ## 😎 Experience Design
 
+Designing user interface is part research, part design and all that is essential for driving online business. Our motivation is to provide real insight into the most engaging and intuitive online experiences.
+
+UX design is less about a pretty interface and more about presenting the customers with an intuitive experience. Please don't get them to think too hard! Often a perfect user interface is invisible until the end customer
+
 Persona definition \| User stories \| Wire-framing \| User testing \| Analytics \| Heuristic Review \| Inclusive Design \| Evidence Based Design
 
 > “If you think good design is expensive, you should look at the cost of bad design.” - Dr. Ralf Speth, Chief Executive Officer, Jaguar Land Rover
 
 ## 👩💻 Technology Development
+
+Our apps and digital products are purpose-designed and developed to connect with your customers and grow your business online! We enable your business by creating tailored software solutions that become an extension of your core domain.
+
+We live by our values when it comes to software development, i.e. simplicity. It should make your business growth and operation simpler.
 
 Technical coaching \| RPA \| Web \| Mobile \| ML & AI \| DevOps \| Cloud Computing \| IOT \| eCommerce
 
