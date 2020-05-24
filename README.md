@@ -6,9 +6,9 @@ description: Create simple digital solutions to make business better
 
 ## 🕹 Strategic Consulting
 
-We 're building data-driven approaches to help companies become market leaders. We know that every company is different and we're never going to promote a one-size-fits-all, cookie-cutter solution for this. Our digital expert team will cut through the noise so that you can stop overloading options and keep one step ahead of the competition.
+We 're building data-driven approaches to help companies become market leaders. Our digital expert team will cut through the noise so that you can stop overloading options and keep one step ahead of the competition.
 
-Creating an effective digital strategy includes integrating the study of the client, the competitor, and the market to find the most lucrative business opportunities. ‌ To develop a complete data-informed digital strategy, we compile data from industry-leading platforms and your business results.
+Creating an effective digital strategy includes integrating the study of the client, the competitor, and the market to find the most lucrative business opportunities. ‌ Identify the key business problems, prioritise them, and build an actionable roadmap.
 
 Product review \| Proof of concept \| R&D \| Analytics \| Roadmap \| Strategy \| CRM \| CMS \| ERP
 
@@ -22,7 +22,7 @@ Persona definition \| User stories \| Wire-framing \| User testing \| Analytics 
 
 ## 👩💻 Technology Development
 
-Technical coaching \| RPA \| Web \| Mobile \| ML & AI \| DevOps \| Cloud Computing \| IOT
+Technical coaching \| RPA \| Web \| Mobile \| ML & AI \| DevOps \| Cloud Computing \| IOT \| eCommerce
 
 > “The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.” - Bill Gates, Co-founder of Microsoft.
 
@@ -40,7 +40,7 @@ Data transformation \| Information consolidation \| Data cleansing
 
 Supporting, maintaining, investigating and improving the solution over time.
 
-Penetration testing \| Information management \| DevSecOps \| Support & maintenance 
+Penetration testing \| Information management \| DevSecOps \| Support & maintenance \| Azure \| AWS \| GCP
 
 > "Customer service is the new marketing." - [Derek Sivers, Founder CD Baby](http://sivers.org/)
 
