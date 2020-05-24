@@ -54,5 +54,5 @@ Penetration testing \| Information management \| DevSecOps \| Support & maintena
 
 > "Customer service is the new marketing." - [Derek Sivers, Founder CD Baby](http://sivers.org/)
 
-`ThinkCore Pty Ltd | ABN 77640387364 | Sydney, AU`
+`ThinkCore Pty Ltd | ABN 77640387364 | hello@thinkcore.com.au`
 
