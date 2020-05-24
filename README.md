@@ -48,6 +48,8 @@ Data transformation \| Information consolidation \| Data cleansing
 
 Supporting, maintaining, investigating and improving the solution over time. By working fast, proactively and strategically as your trusted managed services provider, we can take away the burden of mundane day-to-day tasks, protect your organisation from security threats, manage your IT infrastructure and workloads, as well as help you to achieve an awful lot more.
 
+With our self-service portals and 24X7 support services, you can be assured that your business is always running forward.
+
 Penetration testing \| Information management \| DevSecOps \| Support & maintenance \| Azure \| AWS \| GCP
 
 > "Customer service is the new marketing." - [Derek Sivers, Founder CD Baby](http://sivers.org/)
