@@ -6,13 +6,13 @@ description: Create simple digital solutions to make business better
 
 Web \| Mobile \| ML & AI \| DevOps \| Cloud Computing \| IOT
 
-## Strategic Consulting
+## 🕹 Strategic Consulting
 
-## Experience Design
+## 😎 Experience Design
 
-## Technology Development
+## 👩💻 Technology Development
 
-## Systems Integration
+## 🔌 Systems Integration
 
-## Managed Services
+## 💻 Managed Services
 
