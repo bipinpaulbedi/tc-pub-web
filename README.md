@@ -28,5 +28,5 @@ Supporting, maintaining, investigating and improving the solution over time.
 
 Penetration testing \| Information management 
 
-_ThinkCore Pty Ltd \| ABN 77640387364_ 
+`ThinkCore Pty Ltd | ABN 77640387364 | Melbourne, AU`
 
